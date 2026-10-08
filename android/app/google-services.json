@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "446720087304",
+    "firebase_url": "https://stoveonofftest-default-rtdb.firebaseio.com",
+    "project_id": "stoveonofftest",
+    "storage_bucket": "stoveonofftest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446720087304:android:cf5064faaec2784f3848bd",
+        "android_client_info": {
+          "package_name": "com.example.stoveguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOb7JQ72BlMuE53YEjmNNNUaUOLRFVvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
